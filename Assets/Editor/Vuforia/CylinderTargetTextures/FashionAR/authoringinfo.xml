@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="Watch_Multiple" version="3.0" targetId="e3f59522b9874b72aa4f5207054d0c6b" sideLength="2.750000" topDiameter="7.000000" bottomDiameter="7.000000" sideImage="Watch_Multiple.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

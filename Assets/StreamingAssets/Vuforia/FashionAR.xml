@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tshirt" size="10.000000 16.494844" />
+    <ImageTarget name="Watch_Single" size="10.000000 8.945148" />
+    <CylinderTarget name="Watch_Multiple" sideLength="2.750000"/>
+  </Tracking>
+</QCARConfig>
